@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="pt-br"
 <head>
-<title> Atividade Ale </title>
+  <h1> Tecnologia </h1>
 </head>
 <body>
-<h1> Tecnologia </h1>
 <p>Com a rápida evolução da tecnologia, surgem novos desafios éticos e sociais. A privacidade e a segurança são cada vez mais importantes,
 especialmente para empresas que enfrentam problemas de fraude online. A tecnologia também pode ser usada para disseminar informações falsas,
 o que afeta a confiança na sociedade. É importante que as empresas adotem medidas de proteção contra fraudes e tentem agir de forma ética,
