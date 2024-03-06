@@ -12,3 +12,4 @@ relações humanas. As empresas devem estar atentas aos desafios éticos e socia
 seus clientes e usuários. É importante que a tecnologia seja usada de forma ética, respeitando a privacidade dos indivíduos e
 contribuindo para o desenvolvimento da sociedade.</p>
 </body>
+</html>
