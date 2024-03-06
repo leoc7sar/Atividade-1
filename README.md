@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br"
 <head>
-    <title> Atividade Ale </title>
+<title> Atividade Ale </title>
 </head>
 <body>
 <h1> Tecnologia </h1>
